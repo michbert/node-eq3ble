@@ -45,7 +45,8 @@
     ]
   },
   "dependencies": {
-    "babel-core": "6.26.0"
+    "babel-core": "6.26.0",
+    "noble-device": "git+https://github.com/maxnowack/noble-device.git"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
@@ -57,7 +58,6 @@
     "eslint": "4.8.0",
     "eslint-config-airbnb-base": "12.0.2",
     "eslint-plugin-babel": "4.1.2",
-    "eslint-plugin-import": "2.7.0",
-    "noble-device": "git+https://github.com/maxnowack/noble-device.git"
+    "eslint-plugin-import": "2.7.0"
   }
 }
